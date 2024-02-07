@@ -1,9 +1,9 @@
-function hello() {
+function hello () {
   return 'hello'
 }
 
-function world() {
-    return 'world'
+function world () {
+  return 'world'
 }
 
-console.log(hello())
+console.log(hello(), world())
